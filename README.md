@@ -1,5 +1,5 @@
 # memories_app
-![memories_app](https://user-images.githubusercontent.com/78086124/152564454-6ea0cc4d-1d35-43ab-ac77-034aaeacdc62.gif)
+![memories_app](https://user-images.githubusercontent.com/78086124/152565316-e7c20d42-e898-4a73-9d7f-cac963208b2f.gif)
 
 A new Flutter project.
 
