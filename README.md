@@ -1,4 +1,5 @@
 # memories_app
+![memories_app](https://user-images.githubusercontent.com/78086124/152564454-6ea0cc4d-1d35-43ab-ac77-034aaeacdc62.gif)
 
 A new Flutter project.
 
